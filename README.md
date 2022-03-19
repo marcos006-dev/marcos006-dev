@@ -2,7 +2,7 @@
 
 I'm 20 years old, I'm from Formosa, Argentina and I'm a backend software developer and a fan of the Dev Ops culture. I am passionate about technologies and I love learning new things. On the other hand, in my free time I play sports like soccer or volleyball, to de-stress or generate new ideas.
 
-### 🔭 Take a look at my [portfolio!](https://marcos006-dev.github.io/marcos-franco-dev/).
+### 🔭 Take a look at my [portfolio!](https://marcos006-dev.github.io/marcos-franco-dev/){:target="_blank"}.
 
 ## ⚡ Tech Stack
 
